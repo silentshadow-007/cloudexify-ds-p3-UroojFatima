@@ -185,50 +185,6 @@ The model generates an estimated price in Pakistani Rupees (PKR).
 
 ---
 
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone <your-github-repository-url>
-```
-
-### 2. Open the project folder
-
-```bash
-cd House-Price-Prediction
-```
-
-### 3. Install dependencies
-
-```bash
-pip install pandas numpy matplotlib scikit-learn jupyter
-```
-
-Or, if `requirements.txt` is included:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Start Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 5. Open
-
-```text
-house_price_prediction.ipynb
-```
-
-### 6. Run all cells
-
-Make sure `house_prices.csv` is located in the same project directory as the notebook.
-
----
-
 ## 📌 Key Findings
 
 The project compares Linear Regression and Random Forest Regression based on their test performance.
